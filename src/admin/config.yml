@@ -4,7 +4,7 @@ backend:
   branch: main
   ### enable below lines for github integration ###
   # name: github
-  # repo: surjithctly/eleventy-starter
+  # repo: leandrogroup/11tyStaticCMS
 media_folder: "src/static/img"
 public_folder: "/static/img"
 
